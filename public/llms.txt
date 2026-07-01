@@ -1,0 +1,86 @@
+# פרוטאץ — Generative Engine Optimization Map
+
+> Protatz is a multimedia company located at Gvutinsky 71. The website should serve as a professional showcase for the company, featuring a portfolio/projects section where completed works can be uploaded and displayed. The client plans to populate the projects section at a later stage.
+
+---
+
+## Pages
+
+### בית
+https://-6eceb78d.zappy5.app
+פרוטאץ מביאה את החזון שלכם לחיים עם פתרונות מולטימדיה ועיצוב אתרים חדשניים. בואו ליצור יחד חוויה דיגיטלית יוצאת דופן שתמשוך לקוחות ותבנה מותג מנצח.
+
+### שירותים
+https://-6eceb78d.zappy5.app/services
+מחפשים סטודיו למולטימדיה שיודע לספר את הסיפור שלכם? משירותי עיצוב ועד הפקת תוכן דיגיטלי, אנחנו מציעים חבילת פתרונות מלאה שתגרום לקהל שלכם לעצור, להתבונן ולפעול.
+
+### פרויקטים
+https://-6eceb78d.zappy5.app/projects
+הצצה לעולם היצירה שלנו: פרויקטים שהגדירו מחדש מותגים, סיפורים שכבשו מסכים, ועבודות מולטימדיה שמוכיחות שדמיון הוא רק נקודת ההתחלה. בואו לקבל השראה לפרויקט הבא שלכם.
+
+### אודות
+https://-6eceb78d.zappy5.app/about
+אנחנו פרוטאץ, צוות מולטימדיה שמאמין שטכנולוגיה פוגשת יצירתיות ברחוב גבוטינסקי 71. בואו להכיר את האנשים, החזון והאנרגיה שמאחורי העבודות שיגרמו למותג שלכם לבלוט מעל כולם.
+
+### צור קשר
+https://-6eceb78d.zappy5.app/contact
+יש לכם רעיון לפרויקט מולטימדיה או עיצוב אתר? אנחנו כאן להקשיב, לייעץ ולהפוך כל מחשבה למציאות דיגיטלית מרשימה. השאירו פרטים ונתחיל לרקום את החזון שלכם עוד היום.
+
+### תודה - פרוטאץ
+https://-6eceb78d.zappy5.app/thank-you
+פרוטאץ - תודה - פרוטאץ
+
+## Legal & Policy
+
+### Privacy Policy
+https://-6eceb78d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-6eceb78d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-6eceb78d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-6eceb78d.zappy5.app/contact
+- Endpoint: https://-6eceb78d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פרוטאץ
+Protatz is a multimedia company located at Gvutinsky 71. The website should serve as a professional showcase for the company, featuring a portfolio/projects section where completed works can be uploaded and displayed. The client plans to populate the projects section at a later stage.
+
+## Target Audience
+- משרדי פרסום יצירתיים
+- צוותי שיווק בחברות גדולות
+- מתכנני אירועים
+
+## Industry
+Multimedia
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-6eceb78d.zappy5.app/sitemap.xml
+- Robots: https://-6eceb78d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-6eceb78d.zappy5.app/llms-full.txt
